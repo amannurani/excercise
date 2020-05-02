@@ -10,7 +10,8 @@ Fork this repo and create pull request to merge with this repo
 
 ```json
 {
-    "amannurani" : "Workshop covers basic git instruction."
+    "amannurani" : "Workshop covers basic git instruction.",
+    "Yourgithubusername" : "Words to say"
 }
 ```
 - Create a PR to merge with this repo
