@@ -14,4 +14,5 @@ Fork this repo and create pull request to merge with this repo
     "Yourgithubusername" : "Words to say"
 }
 ```
+- Edit same file and add your content.
 - Create a PR to merge with this repo
