@@ -15,4 +15,4 @@ Fork this repo and create pull request to merge with this repo
 }
 ```
 - Edit same file and add your content.
-- Create a PR to merge with this repo
+- Create a PR to merge with this repo.
