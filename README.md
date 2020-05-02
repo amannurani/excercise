@@ -6,5 +6,11 @@ Fork this repo and create pull request to merge with this repo
 
 - Fork this repo
 - Create a branch starting with `add-yourgithubusername`
-- Create a text file `.txt` inside `Contributor` folder - - Your file name must be your github username, Inside txt file write down feedback about this workshop.
+- Edit `contributor.json` file and add your github username and feedback. Like below
+
+```json
+{
+    "amannurani" : "Workshop covers basic git instruction."
+}
+```
 - Create a PR to merge with this repo
